@@ -47,7 +47,14 @@
   position: relative;
   line-height: 28px;
   color:white;
+  
 
+}
+.sign-up-now:hover{
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.1);
+ 
 }
 .button3,
 .spanhidden4 {
@@ -64,7 +71,7 @@
     #9a8d70 71.88%,
     #d1937e 89.06%
   );
-  width: 109px;
+  /*width: 109px;*/
   height: 40px;
   align-items: flex-end;
   justify-content: center;
@@ -78,6 +85,13 @@
 }
 a {
   color: white !important;
+}
+
+.learn-more:hover{
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.1);
+ 
 }
 .divmt-10,
 .learnmorebutton1 {

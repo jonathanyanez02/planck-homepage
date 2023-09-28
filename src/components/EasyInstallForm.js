@@ -9,7 +9,7 @@ const EasyInstallForm = () => {
             <div className="span">
               <div className="easy-to-start">Easy to start,</div>
             </div>
-            <div className="easy-to-instal">easy to install</div>
+            <div className="easy-to-instal">Easy to install</div>
           </div>
           <div className="divflex3">
             <div className="span">

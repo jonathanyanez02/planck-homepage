@@ -95,7 +95,7 @@
   top: 2923.44px;
   left: 0;
   width: 1973.56px;
-  overflow: hidden;
+ /* overflow: hidden;*/
   align-items: flex-end;
   text-align: center;
   font-size: var(--font-size-29xl);

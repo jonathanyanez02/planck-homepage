@@ -246,6 +246,12 @@
   padding: var(--padding-33xl) var(--padding-5xs) var(--padding-5xs);
   font-size: var(--font-size-mid);
 }
+.view-all-integrations:hover{
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.1);
+ 
+}
 .divversions {
   position: relative;
   width: 1214px;

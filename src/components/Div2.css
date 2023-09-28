@@ -250,6 +250,12 @@
   padding: var(--padding-5xs);
   font-size: var(--font-size-lg);
 }
+.learn-more-about1:hover{
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.1);
+ 
+}
 .div2,
 .img21 {
   display: flex;
