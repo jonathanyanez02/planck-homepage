@@ -46,6 +46,8 @@
 .sign-up-now {
   position: relative;
   line-height: 28px;
+  color:white;
+
 }
 .button3,
 .spanhidden4 {
@@ -72,11 +74,16 @@
 .learn-more {
   position: relative;
   line-height: 24px;
+  
+}
+a {
+  color: white !important;
 }
 .divmt-10,
 .learnmorebutton1 {
   display: flex;
   align-items: center;
+  
 }
 .learnmorebutton1 {
   flex-direction: column;
@@ -85,6 +92,7 @@
     2.959991455078125px;
   font-size: var(--font-size-smi);
   font-family: var(--font-dm-sans);
+  
 }
 .divmt-10 {
   position: absolute;
