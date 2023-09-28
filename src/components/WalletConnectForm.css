@@ -1,0 +1,103 @@
+.divcards5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-base);
+  background-color: var(--color-gray-300);
+  box-shadow: 5.940000057220459px 5.940000057220459px 60px
+      rgba(138, 75, 203, 0.2) inset,
+    -17.81999969482422px 23.760000228881836px 59.4px rgba(25, 17, 72, 0.8);
+  width: 384px;
+  height: 205px;
+}
+.connect-your-wallet {
+  position: absolute;
+  margin: 0 !important;
+  top: 49px;
+  left: 13px;
+  letter-spacing: -0.96px;
+  line-height: 64px;
+  background: linear-gradient(
+    90deg,
+    #18aba2 11.47%,
+    #9a8d70 64.58%,
+    #d1937e 85.26%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 357px;
+  height: 106px;
+  flex-shrink: 0;
+  z-index: 0;
+}
+.divcards6,
+.divcards7,
+.divcards8 {
+  position: absolute;
+  top: 162px;
+  left: 339px;
+  border-radius: var(--br-base);
+  background-color: var(--color-gray-300);
+  box-shadow: 5.940000057220459px 5.940000057220459px 60px
+      rgba(138, 75, 203, 0.2) inset,
+    -17.81999969482422px 23.760000228881836px 59.4px rgba(25, 17, 72, 0.8);
+  width: 384px;
+  height: 205px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: var(--padding-4xl) var(--padding-5xl) var(--padding-5xl);
+  box-sizing: border-box;
+}
+.divcards7,
+.divcards8 {
+  top: 321px;
+  left: 676px;
+}
+.divcards8 {
+  top: 472px;
+  left: 1013px;
+}
+.download-the-installer {
+  position: absolute;
+  top: 51px;
+  left: calc(50% - 685.5px);
+  letter-spacing: -0.96px;
+  line-height: 64px;
+  background: linear-gradient(
+    90deg,
+    #18aba2 11.47%,
+    #9a8d70 64.58%,
+    #d1937e 85.26%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 357px;
+  height: 102px;
+}
+.divcards-parent {
+  position: relative;
+  width: 1397px;
+  height: 677px;
+}
+.frame18 {
+  position: absolute;
+  top: 3098px;
+  left: 0;
+  width: 1772.56px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-lexend);
+}
